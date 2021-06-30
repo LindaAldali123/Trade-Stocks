@@ -5,9 +5,9 @@
             Car Showroom To Display The Most Beautiful And Best Cars.
         </h4>
         <br />
-        <div class="row" id="ads" style="margin-top: 30px">
+        <div class="row" id="ads" style="margin-top: 20px">
             <!-- Category Card -->
-            <div class="col-md-4">
+            <div class="col-md-4" style="margin-top: 15px">
                 <div class="card rounded">
                     <div class="card-image">
                         <span class="card-notify-badge">Low KMS</span>
@@ -31,7 +31,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-4">
+            <div class="col-md-4" style="margin-top: 15px">
                 <div class="card rounded">
                     <div class="card-image">
                         <span class="card-notify-badge">Fully-Loaded</span>
@@ -56,7 +56,7 @@
                 </div>
             </div>
 
-            <div class="col-md-4">
+            <div class="col-md-4" style="margin-top: 15px">
                 <div class="card rounded">
                     <div class="card-image">
                         <span class="card-notify-badge">Price Reduced</span>
@@ -81,9 +81,9 @@
                 </div>
             </div>
         </div>
-        <div class="row" id="ads" style="margin-top: 60px">
+        <div class="row" id="ads" style="margin-top: 15px">
             <!-- Category Card -->
-            <div class="col-md-4">
+            <div class="col-md-4" style="margin-top: 15px">
                 <div class="card rounded">
                     <div class="card-image">
                         <span class="card-notify-badge">Low KMS</span>
@@ -107,7 +107,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-4">
+            <div class="col-md-4" style="margin-top: 15px">
                 <div class="card rounded">
                     <div class="card-image">
                         <span class="card-notify-badge">Fully-Loaded</span>
@@ -132,7 +132,7 @@
                 </div>
             </div>
 
-            <div class="col-md-4">
+            <div class="col-md-4" style="margin-top: 15px">
                 <div class="card rounded">
                     <div class="card-image">
                         <span class="card-notify-badge">Price Reduced</span>

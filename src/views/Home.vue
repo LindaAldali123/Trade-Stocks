@@ -47,12 +47,12 @@ export default {
 }
 .hom h1 {
     color: rgb(136, 134, 134);
-    font-size: 45px;
+    font-size: 36px;
     font-weight: bolder;
 }
 .hom h6 {
     color: rgb(223, 217, 217);
-    font-size: 24px;
+    font-size: 22px;
     font-weight: bolder;
 }
 .hom p {
